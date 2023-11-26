@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+calculator/__init__.py
+calculator/core.py
+dremo_awesomecalculator.egg-info/PKG-INFO
+dremo_awesomecalculator.egg-info/SOURCES.txt
+dremo_awesomecalculator.egg-info/dependency_links.txt
+dremo_awesomecalculator.egg-info/top_level.txt
+tests/__init__.py
+tests/testscalculatortests.py
